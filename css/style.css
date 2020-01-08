@@ -28,3 +28,8 @@ nav .brand-logo{
 .footer-title{
   color: sandybrown !important;
 }
+
+.carousel{
+  height: 50vh;
+  margin-top: 10px;
+}
